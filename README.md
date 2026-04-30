@@ -54,6 +54,7 @@
 - [NGINX with RTMP Module](https://github.com/arut/nginx-rtmp-module) - A module for NGINX that supports RTMP-based streaming.
 - [Wowza Streaming Engine](https://www.wowza.com/products/streaming-engine) - A customizable streaming server for broadcasting live and on-demand video.
 - [Jitsi Meet](https://jitsi.org/) - A free, open-source video conferencing tool with high-quality streaming capabilities.
+- [Cyber Collector](https://t.me/cybercollectorbot) — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Editing and Post-Production
 
