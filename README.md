@@ -30,6 +30,7 @@
 - [OpenCV](https://opencv.org/) - An open-source computer vision library for video processing and image analysis.
 - [x264](https://www.videolan.org/developers/x264.html) - An open-source H.264 video encoder.
 - [x265](https://x265.org/) - An open-source HEVC/H.265 video encoder for high-quality video compression.
+- [WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - A desktop app that generates translated subtitles from any video, fully offline. Uses whisper.cpp and a local LLM (or DeepL/OpenAI/Gemini).
 
 ## Audio Processing
 
