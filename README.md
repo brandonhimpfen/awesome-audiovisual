@@ -46,6 +46,7 @@
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - A tool for analyzing and reporting technical metadata of media files.
 - [AVFoundation](https://developer.apple.com/av-foundation/) - Apple’s framework for working with audiovisual assets on iOS and macOS.
 - [DirectShow](https://docs.microsoft.com/en-us/windows/win32/directshow/directshow) - A Microsoft API for streaming media on Windows platforms.
+- [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Renders 4-6s animated b-roll overlay videos (mp4) for short-form social and landscape YouTube. AI-driven via MCP: paste a script into Claude Code, Cursor, or Codex; the model writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
 
 ## Streaming and Broadcasting
 
