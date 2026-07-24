@@ -28,6 +28,7 @@
 - [FFmpeg](https://ffmpeg.org/) - A powerful open-source framework for handling video, audio, and multimedia files.
 - [HandBrake](https://handbrake.fr/) - A popular open-source video transcoder for converting video files.
 - [OpenCV](https://opencv.org/) - An open-source computer vision library for video processing and image analysis.
+- [Video2Any](https://video2any.com/) - Browser-based tool that turns videos and screen recordings into editable PowerPoint slides, PDFs, and subtitles, processed entirely in the browser without uploads.
 - [x264](https://www.videolan.org/developers/x264.html) - An open-source H.264 video encoder.
 - [x265](https://x265.org/) - An open-source HEVC/H.265 video encoder for high-quality video compression.
 
