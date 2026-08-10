@@ -28,6 +28,7 @@
 - [FFmpeg](https://ffmpeg.org/) - A powerful open-source framework for handling video, audio, and multimedia files.
 - [HandBrake](https://handbrake.fr/) - A popular open-source video transcoder for converting video files.
 - [OpenCV](https://opencv.org/) - An open-source computer vision library for video processing and image analysis.
+- [VHS Filter](https://vhsfilter.com/) - A free online tool to add retro VHS and camcorder effects to photos and videos, directly in the browser.
 - [x264](https://www.videolan.org/developers/x264.html) - An open-source H.264 video encoder.
 - [x265](https://x265.org/) - An open-source HEVC/H.265 video encoder for high-quality video compression.
 
