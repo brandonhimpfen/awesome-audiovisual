@@ -64,6 +64,8 @@
 - [Shotcut](https://shotcut.org/) - A free, open-source video editor with extensive features and support for FFmpeg.
 - [Avid Pro Tools](https://www.avid.com/pro-tools) - A digital audio workstation for music and sound production.
 
+- [Photo2Reel](https://photo2reel.com/) - Browser-based tool for combining multiple photos with optional music into a video locally, without uploading files or requiring an account.
+
 ## Virtual Reality and 3D
 
 - [Unity 3D](https://unity.com/) - A popular game engine with support for VR/AR and multimedia applications.
