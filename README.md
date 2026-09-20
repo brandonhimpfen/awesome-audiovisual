@@ -39,6 +39,7 @@
 - [Librosa](https://librosa.org/) - A Python library for analyzing and processing audio signals.
 - [SuperCollider](https://supercollider.github.io/) - A platform for audio synthesis and algorithmic composition.
 - [PortAudio](http://www.portaudio.com/) - A free, cross-platform, open-source library for real-time audio input and output.
+- [Browser Music Analysis Kit](https://github.com/j022315051/browser-music-analysis-kit) - Dependency-free JavaScript helpers for browser-side pitch, key, Camelot, and timestamped chord analysis.
 
 ## Multimedia Libraries
 
