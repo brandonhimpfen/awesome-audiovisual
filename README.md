@@ -61,6 +61,7 @@
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - A professional video editing, color grading, and post-production software.
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - A leading video editing software used by professionals.
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/) - A professional video editing software for macOS.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - An open-source, local-first toolkit for agent-driven video composition, editing, and transcription.
 - [Shotcut](https://shotcut.org/) - A free, open-source video editor with extensive features and support for FFmpeg.
 - [Avid Pro Tools](https://www.avid.com/pro-tools) - A digital audio workstation for music and sound production.
 
