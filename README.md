@@ -62,6 +62,7 @@
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - A leading video editing software used by professionals.
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/) - A professional video editing software for macOS.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - An open-source, local-first toolkit for agent-driven video composition, editing, and transcription.
+- [ReelWorkshop](https://reelworkshop.com/) - Browser compilation maker: import your own clips, arrange/trim, preview, and export vertical 9:16 H.264 MP4 for short-form. Editing & preview free; finished export on Starter.
 - [Shotcut](https://shotcut.org/) - A free, open-source video editor with extensive features and support for FFmpeg.
 - [Avid Pro Tools](https://www.avid.com/pro-tools) - A digital audio workstation for music and sound production.
 
